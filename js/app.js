@@ -46,7 +46,7 @@ function dataload() {
     option4.innerHTML = question[index].options[3];
     scoreCard.innerHTML = score;
   } else {
-    quizBox.innerHTML = "Quiz Over......!!!";
+    quizBox.innerHTML = "Quiz Sudah Selesai, Terimakasih";
     option1.style.display = "none";
     option2.style.display = "none";
     option3.style.display = "none";
